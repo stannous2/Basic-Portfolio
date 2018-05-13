@@ -1,0 +1,21 @@
+.container {
+    background-image: url("../images/light-grey-terrazzo.png");
+    height: 600px;
+}
+.col3 {
+    background-color: #4aaaa5;
+    color:#fff;
+}
+.section {
+    border: gray;
+    border-style: solid;
+    background-color: white;
+    width: 960px;
+    height: 450px;
+    margin: auto;
+}
+.aboutme {
+    border-bottom-color: blue;
+    border-bottom-style: solid;
+}
+
